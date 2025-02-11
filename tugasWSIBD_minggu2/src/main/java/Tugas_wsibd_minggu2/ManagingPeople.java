@@ -31,7 +31,7 @@ class Person {
     }
 }
 
-public class Managing_People {
+public class ManagingPeople {
     public static void main(String[] args) {
         Person p1 = new Person("Arial", 37);
         Person p2 = new Person("Joseph", 15);
