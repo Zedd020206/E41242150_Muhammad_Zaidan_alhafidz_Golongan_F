@@ -17,6 +17,5 @@ public class Tugas_No1 {
         System.out.println("Student Status  :" + stuStatus);
     }
 }
-
     
 }
