@@ -1,4 +1,4 @@
-package Praktik_wsibd_minggu2;
+package Praktik_wsibd_minggu2_hari1;
 
 public class Praktik_No1 {
 
